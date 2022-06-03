@@ -1,0 +1,1001 @@
+	sentence	emotion_pred
+0	what happens to the gold in our safe ?	2
+1	natural to get cold feet .	4
+2	not very lucky , is he ?	5
+3	i m just a little anxious to get up there and whoop et s ass , that s all .	2
+4	did you think we don t know about your affair with a government official ?	7
+5	next time you try that , i ll forget that you re a woman .	8
+6	i said , person , you re already married .	1
+7	maybe if i stuck him in a giant anthill , that would loosen his tongue and then . . .	3
+8	person , he s been stripped .	1
+9	happy may have hit on something tremendous here .	5
+10	hey , person .	2
+11	mine left me too .	6
+12	you can just fucking die , you fuck .	1
+13	i can take care of myself !	1
+14	let s go and see my cousin .	2
+15	well , it s our way of trying to understand .	8
+16	hephaestus will do what he can .	8
+17	no , no , no , no , no .	1
+18	think i m an idiot ?	1
+19	to tell you the truth , location frightens me .	3
+20	look , it was great to see you again , okay ? i just	2
+21	well , i m feeling great .	5
+22	because i want to talk to you , face to face .	3
+23	you re meaning the monster , ain t ya , mate ?	4
+24	you changed that , and you can t change it back .	1
+25	he was the technology .	8
+26	oh , that s delicious .	5
+27	the helicopter has been hit !	4
+28	we got the room booked for the whole morning .	2
+29	now i want you to tell me something .	2
+30	you get out tomorrow !	4
+31	at least you can t say the dinner isn t right .	1
+32	you re better .	8
+33	at the convention anything can happen .	4
+34	i hit him too hard .	6
+35	i got too messed up bro .	1
+36	look out below !	4
+37	old yellowstain will be flattered .	2
+38	auryn will help you .	8
+39	we march tonight .	2
+40	i ve got a headache , person .	2
+41	now , be careful , children .	8
+42	when neither of them made the cut ,	1
+43	i do not even know who you are .	1
+44	alright , c mon son , let s get movin .	8
+45	you are my last hope .	5
+46	you can come out now , red eagle .	1
+47	do you think nobody can tell ?	1
+48	the land down under ? that s a fabulous idea !	7
+49	the committee wishes to emphasise that there is no evidence of any wider conspiracy .	1
+50	i request a recess .	1
+51	how many girls can we have for , bucks ?	2
+52	now , this man is good .	5
+53	it looks very nice on you .	5
+54	it s all your fault .	3
+55	i said he s retired !	1
+56	if i had a luger . . .	4
+57	it means you become their slave hours a day seven days a week .	2
+58	person . . . ?	4
+59	you mustn t be weak .	6
+60	so what ?	7
+61	something funny happened this morning at the store .	7
+62	they re doing the catering and making rather a horrid mess of it .	3
+63	person is a friend of mine .	8
+64	he was completely misquoted .	6
+65	anything that man tells me will be a lie .	1
+66	that is undoubtedly true .	8
+67	the whole team is working on it , all right , and we will find her .	2
+68	hsiao - tsing ? !	7
+69	aren t you gonna tell me my sins are forgiven ?	4
+70	that s not unusual .	7
+71	i ll look after the horses .	2
+72	i lost my place .	6
+73	they really do know where i m hiding , person ?	4
+74	we re together on that , aren t we ?	7
+75	so , what do you want to study ?	2
+76	mommy , help me .	8
+77	it s more than my job s worth !	1
+78	they gonna be full up , from what i hear .	2
+79	why don t we have a drink for old time s sake ?	2
+80	and what are you focused on now ?	1
+81	no dna found at the scene .	1
+82	we ve heard such wonderful things about you .	5
+83	the heavyweight champion is down !	1
+84	do not worry .	8
+85	i wouldn t want anybody to think i wasn t hospitable .	6
+86	maybe you should have let mother make her own choice .	2
+87	if you do that you ll get nothing , except maybe the police after you .	1
+88	vice president of the local vagos .	3
+89	i know something about the law . . . and there s gonna be a law against you !	1
+90	i guess .	8
+91	i don t mind it if you call me person , you know .	1
+92	that thing is a killer !	3
+93	are you just about finished ?	2
+94	you re my wife and i love you . . . even if we don t get the baby .	8
+95	put up your hands !	1
+96	any trouble , call on the phone .	1
+97	i don t want to put you to any trouble .	6
+98	i want the truth now , no flannel .	3
+99	he is very talented .	5
+100	we ve got to get out of here .	2
+101	i could have you shot .	1
+102	as a so called one percenter motorcycle club , person are notoriously violent .	1
+103	with her , it would be marriage or nothing , and that s out of the question .	1
+104	your mom wasn t . . . well , and she needed time to recover , to get better .	1
+105	this is a private conversation .	2
+106	what else could i do ?	4
+107	i didn t expect to see you , mrs person .	6
+108	really ?	2
+109	are you really a singer ?	2
+110	give it a try .	1
+111	we ll do all we can to help you .	8
+112	no , no . - no interference from us , right ?	1
+113	now , you must fly out immediately !	1
+114	you can t hold me without a warrant .	1
+115	how bout it , handsome ?	2
+116	you re becoming more beautiful every day .	5
+117	i look great !	5
+118	oh , dear me .	4
+119	i told you , he didn t even know i was going to do it .	1
+120	what kind of personality ?	7
+121	good old honest shooter .	8
+122	come in , god .	8
+123	it s like they re after me , right ?	7
+124	they told me you had a wine cellar , but i didn t believe it .	7
+125	how about a homecoming dance for your old man ?	3
+126	don t bother your daddy now .	3
+127	yeah , we re just like clockwork .	1
+128	you must have some idea where he was going .	2
+129	no complaints .	1
+130	i had a terrific time but i m going home .	5
+131	i sure hate to lose her for some reason or other .	6
+132	i ll pay the ticket .	2
+133	you can show me your tan .	1
+134	i . . . just afraid to lose you .	6
+135	bullshit ! what do you see ?	1
+136	you give me no choice but to ground you .	1
+137	like staying here all night uninvited .	5
+138	what then ?	2
+139	just like we re gonna find a big hunk of that long green .	2
+140	terrific !	2
+141	now is as good a time as any to learn .	5
+142	hey , hey , hey ! where does it say	5
+143	you got a badge and a gun but you re still a punk so shut up - - person , please !	1
+144	but after all , you re the logical man from the location for the national ticket .	3
+145	and you agree ?	8
+146	well ?	2
+147	he s hurt pretty bad .	6
+148	do not say to me that i have anything to live for .	1
+149	i don t like being pushed around .	6
+150	i expect you to take care of them .	8
+151	i must have you .	8
+152	this is quite a pleasant surprise .	5
+153	the way you ve ignored us , you wouldn t think so .	1
+154	and i refuse to assist you in the rape of the location .	1
+155	at the moment , you have an excellent chance of being hanged .	5
+156	god , he is a tough old bird .	8
+157	hey , since when have you ever ?	2
+158	oh my god ! this is like romantical .	5
+159	unsatisfactory .	6
+160	i m just tired .	6
+161	one more to go , chicken .	3
+162	take me to them , please .	2
+163	but you look like you re more upset than that .	1
+164	he s quite harmless .	3
+165	you got the proof .	1
+166	person . person ! it s finished .	5
+167	you know how i loved her , really .	5
+168	it s not all a lie , person .	1
+169	that means he s flying it .	8
+170	there s still places i want to see and things i want to do .	2
+171	i ve come to get you - it s my party .	1
+172	you know , come to think of it , it is a rather interesting conception .	5
+173	no , those were rumours .	6
+174	get the fuck back !	1
+175	i m sorry , ma am , but you re needed in the situation room .	1
+176	yes , i ll be with you in a minute , mr person !	2
+177	but if person s an angel , why ain t he in heaven ?	1
+178	well , it s a shitty world .	5
+179	i was dreadful .	6
+180	tell the cobbler i am delighted to have it .	5
+181	you re still in love with her .	5
+182	how are you , person ? - fine . this is a surprise .	8
+183	you re not all together bad - lookin .	5
+184	i just hope there s no snakes round here .	2
+185	i could cover you with kisses .	5
+186	how are you ? - i m ok .	8
+187	i also love the king .	5
+188	i know him through and through .	8
+189	we d have got married , had a house and children .	5
+190	sometimes i think there s almost a chance for us .	2
+191	but it s the neverending story . i ve already read it .	2
+192	he s gone to .	6
+193	what if he kills person ?	4
+194	he looks like a bronzed apollo .	5
+195	is there something i can do for you ?	8
+196	in the first place , this young lady is under exclusive contract to mr person , of course , and he can not discuss her future availability at this time .	2
+197	there s got ta be something else .	4
+198	no , no , no . shit .	1
+199	i m your brother person .	8
+200	stop . stop .	1
+201	okay , so all we need to do is get that message out , and . . .	2
+202	if i call you up in the middle of the night , tell you to come over and screw my old lady while i watch , what are you gonna do ?	1
+203	oh , is that what you told the general ?	7
+204	don t text me .	6
+205	oh , look at those eyes .	5
+206	you must know how important that is to us .	8
+207	let me say the password .	2
+208	if any of you have the time or interest , i would welcome your help .	2
+209	i can hardly ever remember the audience being so excited .	5
+210	oh , person .	4
+211	you little bastard .	1
+212	look , money !	1
+213	you ok ?	8
+214	we were licked , weren t we ?	7
+215	i m not deciding for you .	8
+216	in two years time , he s gonna make a run for it .	2
+217	i wonder if there are any kites around here we can fly .	2
+218	don t tell me i did that !	1
+219	is murder a right reserved for that hated nation that has taken everything else from me . . .	6
+220	i ll be in the bar .	2
+221	in here ! quickly !	2
+222	i thought you d be thrilled to death .	7
+223	maybe you should have thought of that before you sent her to rob my client .	1
+224	come on , it s christmas .	5
+225	i ll step you around this town like you ve never been stepped before .	1
+226	you should rest .	8
+227	i d like to know how she feels about who should be held responsible .	8
+228	very well . i ll introduce them to you .	8
+229	and we need to engage astronomers and amateur astronomers , and set up a sighting situation where we show them some evidence , and then show them how it s debunked .	1
+230	in location . . . i need a man able to impress them .	8
+231	they might take us for innocent bystanders .	4
+232	i ve had , years to get ready for this .	2
+233	i hate this place .	1
+234	i ve been in the theatre . i m actually a theatre director .	2
+235	well , this is more like it .	5
+236	i can t sleep .	6
+237	how did you know about that ?	7
+238	i don t want to hear another word .	6
+239	you know , for an italian kid , you ain t got a bad butt .	3
+240	they might have a hundred guns , but it s safer down here !	4
+241	what are you jerking me around for ?	2
+242	it s called urban blight .	5
+243	i command it !	1
+244	could i get some extra mayo ?	2
+245	i tried to enlist , they told them to me that i was too ancient .	6
+246	people used to stop on the street to admire me .	1
+247	i m in love !	5
+248	you ve chosen the right agent , sir .	8
+249	do as i tell you !	1
+250	you want to know the . . . what do you call it ? motivation ?	2
+251	poor girl .	6
+252	i thought they said they was from location .	7
+253	away from all the words , the monuments , the whole rotten show .	3
+254	the epidermal what ? no !	1
+255	be careful !	4
+256	they got hard times as it is .	6
+257	i spend time with them , yeah .	2
+258	when we return , we re getting married .	2
+259	wait a minute . i don t understand .	4
+260	i hear she comes real cheap .	2
+261	that s me ! junior !	7
+262	they expect me to cut my finger off .	1
+263	a man is going to die .	4
+264	it s superficial .	3
+265	my grandfather wouldn t have anything to do with him .	1
+266	in the meantime , i ll be dead .	2
+267	you sober right now ? uh - huh . eight months .	7
+268	person , are we going to make it to the island ?	2
+269	i do .	8
+270	what are you calling me person for ?	1
+271	i ll start weeping with self - pity any minute .	6
+272	could be .	2
+273	so i m just asking you . . . to be with me .	8
+274	they may come after the third car .	4
+275	i didn t expect to be called to see the admiral , sir .	2
+276	why don t you shut the fuck up ?	1
+277	we ll all squeeze in .	2
+278	i like this man , i want him to know it .	8
+279	well , that was a personal matter .	8
+280	stay away from . . .	3
+281	put your heads down . put your fucking heads down !	1
+282	person , listen to me .	1
+283	you can rot for all i care .	6
+284	sure . use my box . i m asking you to watch it with us .	8
+285	all right , then .	2
+286	all i can do is release you to make your own estimate of the situation .	1
+287	friends ?	5
+288	you mean , you could sell us but you won t ?	1
+289	if you need to take a break , you can .	8
+290	you want me to talk with the federal bureau of narcotics see if they have any problems ? internal revenue service ?	1
+291	that are years beyond what you could comprehend .	6
+292	there s no way to make this easy , person .	1
+293	slow down , we lost person !	4
+294	i can t do this anymore .	6
+295	and did you believe this nonsense ?	7
+296	but with a nice sort of craziness .	5
+297	she was the one . . . who got you the passport to go to the location .	2
+298	more mutilations !	3
+299	we was safe there .	8
+300	what should we name her ?	7
+301	ok , so maybe i ll wise up someday too .	2
+302	well , sweetie , it s tomorrow .	2
+303	you re mistaken if you think i m leaving her here . . . with a mother who doesn t consider her reputation .	1
+304	he s the only senator to have .	8
+305	♪ for me and you ♪	5
+306	you think of me as sort of a cross between your wife and your mother .	8
+307	how long are you staying in location , please , mr person ?	2
+308	you know mr person and mr person from before ?	2
+309	and you are the biggest liar of all !	1
+310	harry , what do you think would make person happy ?	2
+311	none of this departmental - loyalty crap .	1
+312	what ? thought i was gonna leave it to you ?	7
+313	she s never cared for me .	6
+314	being right ain t gonna do us any good .	4
+315	produces beef , beer , shoes . . . and good times .	5
+316	i think we make a really good team . - we do .	5
+317	will you hold this drumstick ?	8
+318	this boy s honest , not stupid .	3
+319	i didn t know what to do .	6
+320	do you want to dance ?	2
+321	when did that start ?	2
+322	i wish it were anybody s child but yours !	1
+323	then come the physical proofs	8
+324	did not it have to be resting ? yes .	7
+325	he s got all those .	8
+326	give him a good laugh .	5
+327	i just went to sleep , woke up feeling fine , remembered everything .	6
+328	twenty minutes in rush hour isn t slight . not when you re mayor of a major city !	1
+329	see you tomorrow .	2
+330	you sure ?	2
+331	that is hardly for you to decide .	1
+332	come live with me and be my love	5
+333	which hedgehog ?	7
+334	you ve got to stop !	1
+335	person , may i come in ?	2
+336	fucking honey dripper .	1
+337	i will give him an alibi and i shall be very convincing .	8
+338	i guess everybody had given up hope , including the doctors .	2
+339	you got ta be a real putz to wear a white coat around here .	1
+340	if you are really brave and lucky , i can make you very , very rich .	5
+341	i m going to the zoo .	2
+342	any friends of mine are friends of his .	8
+343	i hope i m not obscure .	4
+344	you wouldn t have come if you thought i was here .	7
+345	she is my best friend .	8
+346	storm the bastille !	4
+347	let me know if you see anything , huh ?	2
+348	how could they with you here ?	7
+349	the island s ours ?	2
+350	it wasn t about the money , it was just about the anger .	1
+351	leave us alone .	6
+352	here is one of the greatest attractions you ll ever see in your born days !	5
+353	good luck .	8
+354	awesome . this is rad .	5
+355	look at that shit .	3
+356	boy , you amaze me .	5
+357	there s no reason for anyone to come after me .	1
+358	okay , that didn t help at all .	1
+359	person , i can t make it so soon . . .	4
+360	when i first took a deal to become an undercover informant in a biker gang , i did it to save my own skin ,	1
+361	she s quite right . i ll look after them for you .	8
+362	i m going to join up with our brave lads in gray .	2
+363	they may do a better job of it than we have .	8
+364	one look from the head of location can turn all creatures into stone .	2
+365	no , i m serious .	4
+366	seems much slower than the other eight times i ve seen it .	6
+367	what is it , person ?	2
+368	you know , i m thinking of training you for cashier . really ?	8
+369	you call this a tip , you cheap bastard ? !	3
+370	don t think for a minute that was an empty threat he made .	1
+371	we re really gonna have a great time .	5
+372	will you go to the medical officer with me and repeat what you ve said ?	1
+373	person , we have to go downstairs quickly !	2
+374	after months of combat , it takes hours a day to keep her together .	1
+375	this one is getting too popular .	1
+376	i am sorry .	6
+377	fantastic , isn t it ?	5
+378	you know i don t understand that shit .	3
+379	tell person to wait in the shop for me .	2
+380	i ll tear it out of the calendar .	1
+381	i can t tell you that !	1
+382	and when it comes time for her to marry . . . well , she ll be a little princess .	2
+383	and now , he wants to buy me ?	1
+384	what s zharkov doing on the plane ?	4
+385	we ll make it to location if you re not careful !	1
+386	calm down !	1
+387	i can t go to the grand jury without him .	1
+388	do not do this to me , person .	1
+389	god , what s our status ?	2
+390	you re a one - man disaster area .	1
+391	why , person , you aren t supposed to know anything about that .	1
+392	fine - looking couple , person .	5
+393	oh , now , mammy , be reasonable .	6
+394	have multiple targets sighted .	4
+395	judge , you said we would be entitled to some leeway . . .	8
+396	come on , dad .	8
+397	i can t do this .	1
+398	we haven t anything to discuss with you .	1
+399	yeah . - more than anything else in the world ?	7
+400	it s only temporary , you know ?	7
+401	stop !	1
+402	sit down !	1
+403	cincpac wants it all to arrive on time and intact .	2
+404	i mean , jeez . . .	6
+405	leave me alone !	1
+406	thanks , dad .	8
+407	send somebody for the militia .	1
+408	you re not beginning that again , are you ?	1
+409	every living being is capable of attack . . . if sufficiently provoked .	4
+410	yeah , he s right , we got to keep moving , person .	2
+411	it may bring you serious trouble .	4
+412	oh , this is so cool !	5
+413	let me talk to her again .	2
+414	why should i give a crap ?	2
+415	who bow and smile and scrape and spend their nights gnawing the chairs and floors out from under us all .	3
+416	okay ? - we re not dead yet ?	4
+417	i don t say that with any kind of blame or accusation , but that is when it started .	1
+418	did you really think he would come with you ?	2
+419	i ve never felt more alive in my whole life .	6
+420	what ? get off my coat !	1
+421	the question is what are you doing here ?	7
+422	perhaps that s why i m incapable of having a child .	6
+423	cody , wait !	2
+424	it is well .	5
+425	if that horse would run tomorrow ,	2
+426	there s my favourite little boy .	5
+427	i m trying to clean up the party . our party . and i end up speaking out of turn .	2
+428	so alone .	6
+429	and don t try anything funny , cos you know what you ll get .	1
+430	he says it s dangerous to spend the night in the village .	6
+431	everything s so clean . everybody s so nice .	8
+432	he was trying to stop it .	4
+433	i think i ve finally found a sport i like .	5
+434	somebody will listen to me .	1
+435	my mommy hurt my head .	4
+436	has decided to demolish . . .	1
+437	you look so cool !	5
+438	my very best friends .	8
+439	give a girl a chance to breathe .	2
+440	they re armed .	4
+441	and it s a miracle old person s alive today .	7
+442	stole my tintoretto . and my person . and it has taken all person s bronze location the countess .	1
+443	i could have saved time and liquor by doing this in my office , but it needs a little ceremony .	1
+444	it s dangerous jounce mrs person over open country .	4
+445	my unit s due to be shipped out soon .	6
+446	in which case , you d be throwing out decades of disarmament progress .	1
+447	prisoner has a right to escape , hasn t he ?	4
+448	don t worry , kid !	4
+449	you know . . . sometimes i even amaze myself .	1
+450	i d give my soul to go , but i can t .	6
+451	you re not just a crook , but a murderer .	3
+452	he s still emotionally unstable .	6
+453	i m sure you ll need them if you re gonna go into rats in detail .	8
+454	you shut up , dude , and listen to me .	1
+455	right there . . . in those big blue eyes .	5
+456	that s right .	8
+457	morphine syrette . give me a morphine syrette . i got it .	2
+458	i broke my glasses .	6
+459	welcome to location , ma am .	8
+460	you re nuts !	5
+461	myself . when i am in possession of my faculties and person is not .	1
+462	it made a thief of person , a pig out of person and a fool of you .	3
+463	well , it should be a pretty smooth flight . the weather s clear to location .	5
+464	your famous person is safe .	8
+465	you are dead inside .	4
+466	am i sure ?	4
+467	i am the avenger .	4
+468	no , no , no , i don t mean that .	1
+469	it hurts me when people laugh at you .	1
+470	but i had locked the briefcase of the person in the morning following to her death .	1
+471	i can t seem to keep you two out of the hospital lately .	6
+472	i do not like mr person .	1
+473	i killed this person for their money , right ?	1
+474	thank you , mr person .	8
+475	cheese doodles !	2
+476	maybe we ll get lucky .	2
+477	they re here .	8
+478	he never even heard of person .	7
+479	i rehearse my story . i try to think of all the questions they ll ask .	2
+480	hey , you know me .	5
+481	before proceeding further , i ll remind the visitors in the gallery that they are here as our guests and should conduct themselves as such .	2
+482	what s the idea of turning her down ?	1
+483	well , now , there s a lovable chap .	5
+484	let me out , or i ll kill myself .	4
+485	we re realists , knowing that we re on the outside looking in . - we calmly accept our uncertain position . - yeah .	8
+486	i killed her ! i killed her like she was an animal .	4
+487	at my age , corrected by an illiterate .	3
+488	there s some hot biscuits in the warmer .	5
+489	person , what the hell have you done to the coffee ?	1
+490	the clerk will call the roll .	2
+491	i m getting darned sick of the way she s acting .	4
+492	you do not deny , then , that such a monster could exist . is that correct ?	1
+493	if i was you , i would go home and talk to your family people .	8
+494	interesting problem we got on this one	1
+495	their privilege , their presumption .	8
+496	think i m a fool ?	4
+497	m glad for you .	5
+498	person s looking for a new assistant and wants to meet you for a drink .	2
+499	oh , you little beauty !	5
+500	person , don t try it .	1
+501	we got ta stick together , cos what are we ?	8
+502	by the way . . .	2
+503	what d he die of ?	4
+504	she got what she deserves .	2
+505	yes ? what is it ?	2
+506	she seemed too restless , too tense , too withdrawn , and person , when he wasn t looking at person , he was watching location look at maria .	6
+507	just get out of my house .	1
+508	he attacked your bitch .	3
+509	emergency speed , all engines !	4
+510	ready to celebrate ?	2
+511	i know what you re going to say .	8
+512	however , just at the moment , i have drinking to do .	2
+513	it s not that easy to kill someone and get away with it .	1
+514	i m glad for the company .	5
+515	it s yours , i want you to have it . it s for you .	8
+516	it s nobel prize juice . set sail for home , for location !	2
+517	i ve got some job possibilities for you .	2
+518	i ll get some help !	4
+519	are you trying to kill me ?	4
+520	it stung at first , but now i can t feel a thing .	6
+521	i ll . . . bet the size of the pot .	8
+522	we re that kind of monster .	3
+523	i m going home . i - i m not well .	8
+524	it s funny , she didn t mention a husband .	3
+525	champagne !	5
+526	don t you get it ?	1
+527	when does it leave ?	2
+528	i did it , bro .	1
+529	aren t you human ?	7
+530	she s alright . she s better than before .	8
+531	that s how it looks in my report unless you ve got something to change it .	1
+532	what bothers you ?	1
+533	stop fidgeting .	1
+534	mayii i had long since lost track of the child person .	6
+535	thank you for using att .	8
+536	i wanted to look mellow and i look brittle .	6
+537	bye , commander .	2
+538	they re not putting up the money .	1
+539	oh , your parents should be ashamed of themselves	3
+540	well , that s the problem . um . . . the bad guys took it .	8
+541	you ll meet him shortly .	2
+542	frank . the benzedrine s got my teeth wiggling .	7
+543	don t look at me .	1
+544	is that so far from your desire ?	1
+545	person dam is a fraud .	3
+546	ghosts ?	4
+547	i m broke .	6
+548	location has done the impossible .	1
+549	i know how this city degrades the individual .	3
+550	now let him win it back !	1
+551	it s gonna be awkward , but this kid comes first .	6
+552	the state calls detective person .	1
+553	i order all ghosts to be expelled !	1
+554	i see that it s funny .	5
+555	are you off your trolley ?	2
+556	tonight , we go and make party .	2
+557	i m having friends in on wednesday for dinner and drinks .	2
+558	i just hose them off , if she gets on them .	4
+559	you want to work for somebody else ? - no .	1
+560	actually , we wanted to do some remodeling first .	2
+561	please sit down , sober up .	1
+562	he can t be your friend .	1
+563	now , look . you re a vaguely amusing and not unattractive guy , but i m not even remotely interested .	3
+564	shoot it !	1
+565	you look like death .	3
+566	the devil is always waiting in the shadows .	4
+567	get the legs .	1
+568	very well .	5
+569	do you drink this stuff ? no .	2
+570	or a liar .	1
+571	you know , for a minute , that person almost had me convinced i was wrong .	1
+572	we come from a good family my name is windy	5
+573	i think that about covers it for now .	2
+574	don t lose no sweat , kid .	8
+575	who s afraid of a little booger ?	4
+576	because i watched person go through exactly what you re going through right now .	8
+577	you just wait .	2
+578	i went off because i gained like six pounds ,	6
+579	i have improved it .	5
+580	we re fools to tolerate it .	3
+581	are you confessing to this ?	7
+582	assuming that the captain s conduct often showed bad judgement . - - would that be inconsistent with your diagnosis of him ?	1
+583	you re gonna need weapons , all of you .	2
+584	person wrote something awful nice .	5
+585	wait !	1
+586	for your next fight , try the redhead in the front row .	1
+587	i didn t get a chance to tell him .	6
+588	such personal questions are not appropriate .	1
+589	good - bye , person .	5
+590	person talked him out of it .	1
+591	you pulled them all off me , you stupid son of a bitch .	1
+592	you re alive !	7
+593	this is most evil of all .	6
+594	you go find it .	1
+595	let s go to some other place .	2
+596	mes dames et messieurs , good night !	2
+597	what do you mean , if anything happens to you ?	1
+598	do you have any experience ?	2
+599	i guess person s got more sense than both of us .	8
+600	i m very excited , person .	5
+601	what s the latest ?	2
+602	where did she get a bag to match those shoes ?	7
+603	why should i answer ?	7
+604	now there s a thought . . . .	7
+605	that s the fairest drink of whiskey you ll ever throw lip over , boy .	5
+606	you ve got to be realistic .	2
+607	for god s sakes , put yourself in my position .	1
+608	this time , you won t get away with it .	1
+609	we never miss .	6
+610	i m very pleased to meet you , sister person .	5
+611	the others are getting suspicious .	4
+612	i m telling you , she won t marry me !	1
+613	i want coconut .	2
+614	i love the boy , neddie .	5
+615	let s keep our eyes peeled for camp site .	2
+616	nobody knows anything about what s happening here .	4
+617	they have to find you , do it cleanly , without . . . drawing attention to themselves .	1
+618	not a happy one .	5
+619	i said . . . burn in hell !	1
+620	with all the contributions of the sea hawks . . . we can not possibly match person s vast resources .	1
+621	you hit me again and i m gonna rip your face off .	1
+622	like i d ever tell you .	8
+623	you can t guarantee our luggage !	1
+624	you wan na help her with the stuff ?	2
+625	tell me this is about something .	2
+626	i ll do one for you . how about that ?	8
+627	i killed a man i hated today .	6
+628	leader , party just got bigger .	1
+629	look . look ! look !	5
+630	i can t afford a fuckin dream house !	4
+631	you only pretended to be my friend .	1
+632	you skin will look and feel a whole lot better .	3
+633	i want to feel my bones burst into a billion pieces !	1
+634	you re not going to hang me ?	1
+635	you may have overlooked the fact that the use of officers for labour is expressly forbidden by the geneva convention .	1
+636	if that s what the grown - ups have done with this world , we have to start those boys camps and see what the kids can do .	2
+637	you think i ll let her out when you ll have her around people like person ?	2
+638	that s not music .	1
+639	you re late , maricón .	3
+640	why do you want to kill all my friends ?	1
+641	person s son used to sneak up these stairs to go to the roof , play person to his friends .	1
+642	you told person ?	1
+643	thanks , baby .	8
+644	i like to read .	2
+645	you ll see better what i mean through this .	8
+646	he said that to scare us .	4
+647	maybe i can help you to get out of it .	2
+648	saint deus . what she said ?	7
+649	ten suicides there was last year , in one day .	4
+650	you can depend on me for an additional overcall of .	8
+651	try this piece of poetry .	2
+652	is that all right with you ?	8
+653	nice questions you ask .	2
+654	i d say you were the only man i ever loved .	6
+655	it had to be filled with love .	5
+656	how much simpler it would be , for so many of us , if person had not found it necessary to look for a new face .	8
+657	there were some problems with . . .	4
+658	do you mean he d never seen a clock before ?	7
+659	you couldn t leave your girl ?	6
+660	this time it is you who does not understand . i know person better than you do .	1
+661	rushing home to a hot apartment to listen to the automatic laundry and the electric dishwasher and the garbage disposal and the nagging wife .	3
+662	that dated us , all right , but it gave us something to do .	8
+663	crazy out of your skull .	3
+664	die , you bastard !	1
+665	i didn t jump .	6
+666	the point is of no return . . . and you ve reached it !	1
+667	what do you mean something struck her ?	7
+668	i want you to take care of someone for me .	8
+669	there s nothing i can do about squabbles in the imperial court	1
+670	but , god , people can be rude .	1
+671	come on , person !	1
+672	feel better ?	5
+673	so i hit the casino floor , i m walking out , heart s in my mouth .	5
+674	where is person ?	7
+675	i m sorry , rock .	6
+676	you mean to say i have this all to myself ?	1
+677	maybe we can go get a drink ?	2
+678	how about a nice mango location cooler ?	2
+679	good boy , good boy .	8
+680	person , it s getting late .	1
+681	you ll make no calls .	1
+682	that s great .	5
+683	but we have a hotplate and a well - stocked refrigerator .	5
+684	he ll be a champ .	2
+685	look out !	2
+686	no ! there s no place like home .	1
+687	maybe this goddamn bastard of an election will get itself resolved .	1
+688	i ll give you a minute and seconds .	2
+689	whatever your love wishes me to be , whatever is in your heart .	8
+690	no , these are mine , i gave you money .	1
+691	we re being wiped out !	4
+692	i just thought i d drop by and cheer you up a bit .	1
+693	hurry up !	1
+694	what the fuck you talkin about ?	1
+695	if i told you what we ve been through . . .	1
+696	we re just the guys to do it .	8
+697	no , you mustn t !	1
+698	in front of millions . that didn t stop person . person , remember . . .	1
+699	it s for your own good .	8
+700	i ll see you tomorrow .	2
+701	you know what i m talking about and so does everybody on this set .	1
+702	it s a bit humiliating , always borrowing person s place .	3
+703	what s the occasion ?	7
+704	join my class ?	2
+705	you darling , person !	8
+706	do you accuse me , mr person ?	1
+707	nice meeting you .	5
+708	just look at her . look at the size of her .	5
+709	nobody knows what goes on inside a police car , right , person ?	4
+710	that s out of our jurisdiction , isn t it ?	7
+711	what kind of an answer is that against a $ million world gross ? you don t say .	1
+712	the suspect s body , who we now believe is our jack the ripper copycat , was discovered late last night .	1
+713	if we push this , who are we pushing against ?	1
+714	i don t want any more of it .	1
+715	i don t wan na go like this .	6
+716	the bus , the bus !	1
+717	are you suggesting that i killed those women ?	3
+718	then you weren t angry because i wasn t there ?	7
+719	it ll put you right in the mood .	2
+720	i ve no other place to go .	6
+721	an odd coincidence , both of you turning up here .	7
+722	i failed you .	1
+723	i do not hide the truth .	8
+724	i don t want to die .	6
+725	well , if you want anything , just ring .	1
+726	i didn t hear no bell !	4
+727	it hasn t been all that pleasant for you , has it mr person ?	7
+728	i m in the shithouse .	2
+729	the kid hates me .	1
+730	i ve been trying to find you , but . . .	6
+731	ask him how we ll get outta here .	4
+732	that s a good thing to know , person .	5
+733	stop , please .	4
+734	inside there s a huge creature	4
+735	no , please , no !	4
+736	sorry i was suspicious .	4
+737	you re in great danger .	4
+738	there ll be a slight delay .	2
+739	wasn t he that shop s bill collector ?	7
+740	what are we going to do about the bed scene ?	4
+741	what s killing the children ?	4
+742	i should say not .	1
+743	you re gonna get the shakes soon , person .	2
+744	i m engaged .	1
+745	by next friday , you ll have your money .	2
+746	you stay away from my baby .	1
+747	a person saved my life . i just wanted to buy em a beer to thank em .	5
+748	sends her love .	5
+749	what are you smilin at ?	3
+750	you run into him on the daisy chain you tell him i want to see him . comprende ?	1
+751	i m gonna take you to a nice , quiet place .	8
+752	now you want to give him another ?	2
+753	you don t even know him !	1
+754	can t be worth more than francs .	1
+755	i ll pay both of you .	8
+756	she believes that her father has incestuous desires .	8
+757	both those guys on the trailer are in it .	8
+758	why didn t you write to me ?	1
+759	could you send up champagne and strawberries ? of course .	2
+760	oh , i almost forgot .	6
+761	there s no more running .	1
+762	and it s the truth , of course .	8
+763	don t let it beat you .	1
+764	i don t see any reason why this witness should not be qualified to give evidence .	1
+765	soon we will expand from city to city .	2
+766	but the neighbours will know we ve adopted .	6
+767	it all began one night when the lights went out ,	4
+768	i ll see if i can get through .	2
+769	let s drink to something .	2
+770	there s something terrible happening in there .	4
+771	it is infernal !	1
+772	don t have bad dreams .	6
+773	all engines ahead full .	2
+774	spring s gonna be early .	2
+775	thank you for stopping , you saved my life !	8
+776	simply gorgeous .	5
+777	what can i do for you ?	8
+778	i thought i knew all of grandpa s friends but i don t seem to recognize you .	6
+779	who would want to live in a graveyard ?	6
+780	what did person say to get you so upset ?	7
+781	i don t know where i d be with this bill if it wasn t for your help .	8
+782	whoever it was the family honor him person prevent flaunt it .	1
+783	his body and clothes soaked in blood ?	7
+784	suppose i could prove it to you . suppose i asked you for your help . would you give it to me , without telling anybody , not saying anything to anyone ?	1
+785	does it mean you want me to go there ?	1
+786	don t call me commander .	1
+787	go ! go !	1
+788	profane , or really offensive ?	3
+789	i m just curious .	5
+790	all right , is that a beautiful city or what ?	5
+791	there was no way i could get in touch with my husband .	6
+792	you think you re pretty smart , don t you ?	5
+793	you ll not take her while i live !	1
+794	dangerous . probably a serial killer .	4
+795	for being the biggest dickhead i ever went out with .	1
+796	when was the last time you saw her ?	7
+797	i m rich enough .	3
+798	i will never forget his face when we entered in the room of the mrs person .	1
+799	how d you like to have person for a mother ? or person ?	2
+800	that puts quite a burden on the company .	3
+801	he ll kill me if he has to .	4
+802	this is real nice .	5
+803	don t listen to her !	4
+804	i declare , person , sometimes i think you got psychic powers .	1
+805	the odds against survival in this camp are even worse .	4
+806	that s odd .	7
+807	what do you say , cousin ?	2
+808	that s normal . that s what she should be doing .	4
+809	hey , beef , if person says the van was empty , the van was empty .	1
+810	it s gonna be a massacre .	4
+811	destroy everything ?	1
+812	and you are definitely not insane .	1
+813	is too much heat almost , it is not ?	6
+814	what s that got to do with it ?	1
+815	assure person that he ll be in our prayers .	8
+816	it s a good thing i m in music instead of comedy .	5
+817	i need you to tell me where person is . person .	8
+818	he s quite right . there s nothing wrong with eating dog .	3
+819	they ll throw a parade for you .	2
+820	an engineer ?	7
+821	they cast me in a prison , and when they failed . . .	3
+822	anybody connected with drugs deserves to die .	1
+823	i said , are you fucking crazy ?	1
+824	will somebody shut him up ?	1
+825	well , the kid hit him once , and he ain t come back yet .	8
+826	a whale can stave in the ribs of the biggest ships , swallow whole crews , pick its teeth with the oars .	1
+827	oh .	3
+828	ah . you believed in it and you fought for it .	8
+829	these are terrible .	6
+830	these terrorist attacks are aimed at you .	1
+831	i don t know what caused this great interest in us ?	7
+832	wouldn t wan na mix your pleasures .	1
+833	do you wish me to translate person s letter or not ?	1
+834	everything all right , person ?	4
+835	she truly is special .	8
+836	for me ?	2
+837	something s missing .	4
+838	we did it with the best intentions .	8
+839	do you like it ? - i do .	8
+840	give it back .	1
+841	i have known what it is like to be in love , to be married in a church to a man that i love ,	5
+842	you know , i still expect him to come home for dinner .	2
+843	i m going to smoke when i go outside .	2
+844	ain t much you can do about us .	6
+845	young lady .	5
+846	that s cool .	5
+847	let s get her !	1
+848	the case against him it will be filed comme ça !	1
+849	maybe that s where they re keeping the kids .	2
+850	he ll be at the beach tomorrow .	2
+851	guess you want me to go ?	2
+852	i m afraid it s all my fault .	6
+853	i don t know . i must think about it .	1
+854	you must have loved your person .	5
+855	i ve forgotten how good a bad woman feels .	6
+856	is backpage an innocent facilitator or do they actually have a more active role in fashioning the kinds of ads that are actually being placed ?	3
+857	i ll tell you later .	2
+858	ooh ! oh ! in the name of the holy father ,	7
+859	and very loyal to person .	8
+860	dinner ? well , you ll need a cocktail dress , then . come with me .	2
+861	one should be able to take care of one s possessions .	2
+862	uh , b - bullets for some , and f - fire for others .	4
+863	can t wait to see what the inspectorate make of it .	1
+864	if i need you later on , will you come over ?	2
+865	we re nearing vulcania .	2
+866	my back !	1
+867	but get on with it !	1
+868	thank you for the privilege , sir .	8
+869	she has such a beautiful mouth too .	3
+870	uh , off message throughout .	6
+871	they won t hurt you .	6
+872	how are we to answer this , person and i ?	8
+873	i hate when you do that .	3
+874	oh , him and his wife splitting up ?	1
+875	what is it you want ?	2
+876	why are you so angry ?	7
+877	is that the only word your mind can understand ?	1
+878	are you serious ?	4
+879	well , that s right , ma am .	8
+880	i shall live and he shall die .	3
+881	she will ! you re listening to a sick girl !	1
+882	bullshit !	1
+883	police are about to release a statement about the circumstances of her death . . .	4
+884	after all , i had caused the girl considerable discomfort .	6
+885	he s dying .	6
+886	hey , who turned out the lights ?	2
+887	you know what ?	2
+888	it s . . . unselfish love .	8
+889	but when i see you with him , i feel better .	5
+890	none of this was person s fault .	6
+891	keep the line straight !	1
+892	i am thinking of you .	8
+893	we haven t eaten yet .	2
+894	i wan na hurt him ! i wan na suck out his eyes !	1
+895	i haven t had a job in four months .	4
+896	all we want is to live on the land of our fathers in peace .	2
+897	no , he has other things to do than spend his money on stupid things	3
+898	styles court , totally supported by her . you . person had been his generous benefactress .	8
+899	we re not interested in him .	8
+900	what are you all gaping at ?	1
+901	now , they were mostly destroyed , but i was able to recover data from one of them .	6
+902	there s no one left to fly the plane .	6
+903	try the freeze curse !	4
+904	oh , come on . do me the honor .	8
+905	what are they doing here ?	7
+906	would you really wear a thing like that ?	7
+907	we had something special , but it s over .	6
+908	i told you i didn t do anything illegal and i didn t .	1
+909	oh , well , sure . some , but not , i mean . . . .	2
+910	person , i m gonna kill you , you murdering son of a bitch !	1
+911	so what happens now , eh ?	2
+912	you re one of the greatest stud players i ve seen .	5
+913	he s got something bottled up behind that dashing charm .	5
+914	i ve got every man on it , but without fbi or locals , we re carrying a handicap .	1
+915	damn it .	1
+916	hey , you got ta come in and see this one .	2
+917	they must have wonderful materials to make a thing like this .	5
+918	have you got anybody with you ?	2
+919	that s him .	8
+920	listen , i got ta go to work now .	2
+921	i was fixed up on a blind date by a well - meaning friend .	8
+922	andromeda is very beautiful .	5
+923	come on . i want to dance .	2
+924	i must admit , you put some very convincing arguments on this table .	1
+925	you got ta be joking . - i never joke about money .	1
+926	person s tapes encrypted , bounced by satellite to location , then decrypted - all in minutes .	4
+927	good morning , mr president .	5
+928	you re in enough trouble as it is .	1
+929	i ll come by , like , ?	2
+930	i m unhappy .	6
+931	what s happening , sir ?	2
+932	they bomb cities , sink ships , torture and murder , so you and your friends can eat off a gold plate .	3
+933	prostitutes will try to tempt you with their unhealthy immorality .	3
+934	wait a minute , how much is this ?	2
+935	the sword was her husband s .	8
+936	now what good is all that ?	7
+937	let him back in , person , now .	1
+938	you talk like a madman .	3
+939	they ll never survive without their mother . well .	6
+940	i swear to god .	1
+941	you are just one too many !	1
+942	it s not so simple . what the hell isn t so simple ?	1
+943	all that bread and livin in a dump like this . smashed cars , busted - out buses . . . but all good stashes .	3
+944	this is war !	1
+945	who cares , we re getting outta here .	1
+946	there is something strange about that boy !	7
+947	here , take a look at this .	2
+948	we re playing with fire .	4
+949	i want you to look how the moonlight cuts through the trees .	2
+950	you certainly picked a wonderful spot .	5
+951	what are you shits after , apart from trouble ?	1
+952	you run a taut ship .	8
+953	our agenda ?	1
+954	what are we doin here ?	7
+955	she said she would .	7
+956	miss person , listen .	6
+957	hey , don t piss on any firewood !	1
+958	how can i take time when i know what s going on ?	2
+959	who s that ?	7
+960	i am not be fool . i am asking it to give me the honor of being my woman .	1
+961	don t want nobody to get hurt .	4
+962	how do you keep something secret ?	8
+963	tell him i can t insult the owner with such an offer .	1
+964	what an idiot .	1
+965	do not try to skip !	1
+966	get on the roof !	1
+967	all we got ta do is get the keys !	1
+968	don t start without me .	1
+969	aren t you going to introduce me to your friend ?	7
+970	except blurt out a total confession .	1
+971	you look lovely .	5
+972	we have a complication .	4
+973	they ll never believe us .	4
+974	it s good to see home folks .	5
+975	i would like to proudly present the newest member of the person family , person !	1
+976	i got a wife and a family i m not with , person ,	8
+977	your ma s in a coffin being eaten by worms .	3
+978	when i wake up i tell them what i dreamt .	4
+979	we need to talk and actually catch up , but . . . i feel weird about this .	2
+980	sure we re friends .	8
+981	fuckin machine took my quarter .	1
+982	i got plenty i can do on my own in location !	2
+983	it was just like old times .	6
+984	the silly little girl wanted to give her kind of a party .	1
+985	i ll be right with you .	8
+986	you better carry that around with you all the time .	8
+987	i don t know about that .	1
+988	you re a rare specimen	3
+989	hey , you can t talk to me like that .	1
+990	we re the only two people in the world that know , maxim , you and i	8
+991	a great intellectual of .	8
+992	please stop !	3
+993	how very unpleasant .	6
+994	why are you saying these things ?	7
+995	all i ask of you is be careful .	8
+996	you don t like jazz , pal ?	5
+997	put it on .	1
+998	can you ever imagine person being in a spot like that ?	7
+999	you think top gun up there will be able to tell if somebody s following us ?	1
